@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Bona+Nova&family=Josefin+Sans:ital,wght@0,400;0,700;1,400&family=Jost:wght@100;200;300;400;500;600;700;800;900&family=Nunito:wght@200;300;400;500;600;700;800;900&family=Peralta&family=Permanent+Marker&display=swap');
+.appHeadline {
+    text-align: center;
+    font-family: 'Peralta', serif;
+    font-weight: 800;
+}   

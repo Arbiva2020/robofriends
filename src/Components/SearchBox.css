@@ -1,0 +1,10 @@
+.searchInput {
+    background-color: aquamarine;
+    height: 40px;
+    width: 200px;
+    margin: 5px;
+}
+
+.searchDiv {
+    text-align: center;
+}
